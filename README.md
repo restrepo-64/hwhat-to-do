@@ -1,3 +1,5 @@
+Deployed live at Netflify. Please [click here](https://coruscating-pika-14150a.netlify.app/) to view
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
